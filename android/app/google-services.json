@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870414551446",
+    "project_id": "giveupaddiction-dda0b",
+    "storage_bucket": "giveupaddiction-dda0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870414551446:android:a03b615653851d6d8d35b7",
+        "android_client_info": {
+          "package_name": "com.give_up_addiction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870414551446-1ivp9fsispofohkv8e41l51kjbkm7kj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwLhsde64L_vPyMRwbiJlR6Sh6N7m6hCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870414551446-1ivp9fsispofohkv8e41l51kjbkm7kj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
